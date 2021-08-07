@@ -87,25 +87,11 @@ a:visited[class="visited-color"] {color:#00ccff;}
     background-color:cornflowerblue;
 }
 
-.osIcon {
-    background-image: url("/images/openshift.png");
-    background-repeat: no-repeat;
-    background-size: 25px;
-    background-position: top center;
-}
-
-.kubeIcon {
-    background-image: url("/images/kubernetes.png");
-    background-repeat: no-repeat;
-    alignment: center;
-}
-
 .h1--no--margin {
     margin-top: 1px  ;
   }
 
 .h1-no-bottom-margin {
-    font-size: 3.5em;
     margin-bottom: -15px  ;
 }
  
@@ -133,6 +119,6 @@ svg.svg-white {
 }
 
 .button-right-mergin {
-    margin-right: 4px  ;
+    margin-right: 2px  ;
     margin-bottom: 4px  ;
 }
