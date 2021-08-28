@@ -33,7 +33,7 @@ module.exports = {
         repository: {
           baseUrl:
             'https://github.com/kazz2001',
-            subDirectory: '/my-carbon-site',
+            subDirectory: '/album_review',
         },
       },
     },
