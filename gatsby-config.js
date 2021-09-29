@@ -4,6 +4,7 @@ module.exports = {
     title: 'Black Music Album Review',
     description: 'Album review for Soul and Hip-Hop Music',
     keywords: 'CD, Album, CD Review, Album Review, Black Music, Soul, Hip-Hop',
+    siteUrl: 'https://planetky.com',
   },
   pathPrefix: `/gtc`,
   plugins: [
@@ -36,6 +37,9 @@ module.exports = {
             subDirectory: '/album_review',
         },
       },
+    },
+    {
+      resolve: 'gatsby-plugin-sitemap',
     },
   ],
 };
